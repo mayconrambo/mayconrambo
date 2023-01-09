@@ -1,4 +1,4 @@
-## Olá, Eu sou o Maycon Rambo 
+## Opa! Maycon aqui ...
 
 - 🔭 Hoje trabalho com Integrações entre sistemas - ETL - Pentaho Data-Integration
 - 🌱 Estudando Frontend
