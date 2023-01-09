@@ -1,6 +1,6 @@
 ## Opa! Maycon aqui ...
 
-- 🔭 Hoje trabalho com Integrações entre sistemas - ETL - Pentaho Data-Integration
+- 🔭 Atualmente trabalhando com Integrações - ETL - Pentaho Data-Integration
 - 🌱 Estudando Frontend
 - 😁 Pronouns: Ele/Dele
 
