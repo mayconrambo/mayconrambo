@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá, Eu sou o Maycon Rambo 
 
-<!--
-**mayconrambo/mayconrambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com Integrações entre sistemas - ETL - Pentaho Data-Integration
+- 🌱 Estudando desenvolvimento Front-End
+- 😁 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+   <a href="https://github.com/mayconrambo/mayconrambo">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayconrambo&show_icons=true&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconrambo&layout=compact&theme=merko"/>
+</div>
+  
+  <div>
+    <h3>Conhecimento em:</h3>
+       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  </div>
