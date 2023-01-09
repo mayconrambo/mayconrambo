@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalhando com Integrações - ETL - Pentaho Data-Integration
 - 🌱 Estudando Frontend
-- 😁 Pronouns: Ele/Dele
 
 <div>
    <a href="https://github.com/mayconrambo/mayconrambo">
