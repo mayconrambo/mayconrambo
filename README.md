@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Maycon Rambo 
 
 - 🔭 Hoje trabalho com Integrações entre sistemas - ETL - Pentaho Data-Integration
-- 🌱 Estudando desenvolvimento Front-End
+- 🌱 Estudando Frontend
 - 😁 Pronouns: Ele/Dele
 
 <div>
