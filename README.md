@@ -1,5 +1,4 @@
-## Opa! Maycon aqui, futuro desenvolvedor frontend ...
-
+## Hey Maycon! O que tem feito?
 - 🔭 Atualmente trabalhando com Integrações - ETL - Pentaho Data-Integration
 - 🌱 Estudando Front-end
 
