@@ -1,7 +1,7 @@
 ## Opa! Maycon aqui, futuro desenvolvedor frontend ...
 
 - 🔭 Atualmente trabalhando com Integrações - ETL - Pentaho Data-Integration
-- 🌱 Estudando Frontend
+- 🌱 Estudando Front-end
 
 <div>
    <a href="https://github.com/mayconrambo/mayconrambo">
