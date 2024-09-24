@@ -1,6 +1,6 @@
 ## Hey Maycon! O que tem feito?
-- 🔭 Atualmente trabalhando com Integrações - ETL - Pentaho Data-Integration
-- 🌱 Estudando Front-end
+- 🔭 Atualmente trabalhando com Integrações - ETL - Pentaho Data-Integration / Java.
+- 🌱 Aprimorando os conhecimentos Fullstack | Node.js, React.js, Next.js e Typescript.
 
 <div>
    <a href="https://github.com/mayconrambo/mayconrambo">
