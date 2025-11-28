@@ -1,21 +1,26 @@
-<div>
-   <a href="https://github.com/mayconrambo/mayconrambo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayconrambo&show_icons=true&theme=dracula" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconrambo&layout=compact&theme=dracula" />
-</div>
-  
-  <div>
-    <h3>Conhecimento em:</h3>
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />    
-       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-  </div>
+# 👋 Olá, eu sou Maycon Rambo!
+
+## 💼 Analista de Integração & Desenvolvedor Full-Stack
+
+Trabalho com a construção e manutenção de sistemas integrados, conectando plataformas como ERP e CRM por meio de soluções robustas e escaláveis. Meu foco está em garantir que os dados fluam de forma consistente, segura e eficiente entre os sistemas corporativos.
+
+### 🛠️ Tecnologias & Ferramentas
+- **Frontend:** React, Next.js
+- **Backend:** Node.js, APIs REST, tratamento de exceções, validações (ex: senhas)
+- **Banco de Dados:** PostgreSQL (com ênfase em transações e controle de mensagens)
+- **Integração:** Middleware, orquestração de fluxos, processamento assíncrono
+- **Outros:** Git, GitHub, CI/CD, boas práticas de engenharia de software
+
+### 🌱 Atualmente
+- Aprimorando arquiteturas de integração entre sistemas legados e modernos.
+- Explorando formas mais eficientes de gerenciar filas de mensagens e garantir a idempotência nas transações.
+
+### 📫 Como me encontrar
+- [LinkedIn]([https://www.linkedin.com/in/mayconrambo](https://www.linkedin.com/in/maycon-rambo/))
+- [Email](mailto:maycon.rambo11@gmail.com)
+
+---
+
+💡 *“Integração não é só conectar sistemas — é conectar confiabilidade.”*
+
+✨ Sinta-se à vontade para explorar meus repositórios ou abrir uma issue se tiver sugestões!
