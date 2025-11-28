@@ -6,8 +6,8 @@ Trabalho com a construção e manutenção de sistemas integrados, conectando pl
 
 ### 🛠️ Tecnologias & Ferramentas
 - **Frontend:** React, Next.js
-- **Backend:** Node.js, APIs REST, tratamento de exceções, validações (ex: senhas)
-- **Banco de Dados:** PostgreSQL (com ênfase em transações e controle de mensagens)
+- **Backend:** Java, Python, Node.js, APIs REST, tratamento de exceções, validações (ex: senhas)
+- **Banco de Dados:** PostgreSQL, Oracle, SQLServer (com ênfase em transações e controle de mensagens)
 - **Integração:** Middleware, orquestração de fluxos, processamento assíncrono
 - **Outros:** Git, GitHub, CI/CD, boas práticas de engenharia de software
 
