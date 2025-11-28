@@ -16,7 +16,7 @@ Trabalho com a construção e manutenção de sistemas integrados, conectando pl
 - Explorando formas mais eficientes de gerenciar filas de mensagens e garantir a idempotência nas transações.
 
 ### 📫 Como me encontrar
-- [LinkedIn]([https://www.linkedin.com/in/mayconrambo](https://www.linkedin.com/in/maycon-rambo/))
+- [LinkedIn](https://www.linkedin.com/in/maycon-rambo)
 - [Email](mailto:maycon.rambo11@gmail.com)
 
 ---
